@@ -1,0 +1,26 @@
+{
+  "name": "express-boilerplate",
+  "version": "1.0.0",
+  "description": "Express Boilerplate For Local Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chetan16222/express-local.git"
+  },
+  "keywords": [
+    "javascript",
+    "node"
+  ],
+  "author": "chetan chauhan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chetan16222/express-local/issues"
+  },
+  "homepage": "https://github.com/chetan16222/express-local#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
